@@ -85,12 +85,12 @@ const questions = [
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'Who is the best Politician?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'Narendra Modi', correct: true },
+      { text: 'Rahul Gandhi', correct: false },
+      { text: 'Lalu Yadav', correct: false },
+      { text: 'Mayawati', correct: false }
     ]
   },
   {
